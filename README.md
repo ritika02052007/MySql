@@ -4,7 +4,7 @@ I created this repository to improve my understanding of databases, query writin
 
 📚 Topics Covered:-
 
-🔹 MySQL Basics
+🔹MySQL Basics
 
 🔹 Database & Table Creation
 
