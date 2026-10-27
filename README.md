@@ -53,7 +53,7 @@ Working with subqueries and views.
 
 🎯 Purpose of This Repository:- The main purpose of this repository is to strengthen my SQL fundamentals and improve my database handling skills through practice and implementation.
 
-📌 Note:- This repository is part of my learning journey in SQL and database management.
+📌 Note:- This repository is part of my learning journey and my practice in SQL and database management.
 
 ⭐ Thanks for Visiting
 If you find this repository useful, feel free to star it ⭐
