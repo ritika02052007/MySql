@@ -1,179 +1,176 @@
-
-```markdown
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,30&height=250&section=header&text=SQLVerse&fontSize=70&fontColor=00FFCC&animation=scaleIn&fontAlignY=38&desc=Explore%20Data.%20Master%20SQL.%20Conquer%20Databases.&descSize=18&descAlignY=62&descColor=A5F3FC" width="100%" alt="SQLVerse animated banner"/>
-</p>
+⚡ SQLVerse | MySQL Practice Lab
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=00FFCC&center=true&vCenter=true&width=750&lines=Welcome+to+SQLVerse!;Writing+Clean+Queries,+Building+Strong+Backends;Turning+Raw+Data+into+Actionable+Insights;Mastering+MySQL,+One+Command+at+a+Time" alt="Animated introduction"/>
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=SQLVerse&fontSize=80&fontColor=FFFFFF&stroke=7C3AED&strokeWidth=2&color=0:050816,35:111C4E,70:4C1D95,100:0891B2&animation=fadeIn&fontAlignY=42&desc=QUERY%20%20%E2%80%A2%20%20ANALYZE%20%20%E2%80%A2%20%20EVOLVE&descSize=18&descAlignY=63&descColor=67E8F9" width="100%" alt="SQLVerse neon animated header"/>
+</p><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2500&pause=900&color=67E8F9&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Welcome+to+my+SQLVerse!;Learning+MySQL+Through+Hands-On+Practice;Every+Query+Unlocks+New+Possibilities;From+Database+Basics+to+Data+Insights" alt="Animated SQL introduction"/>
+</p><p align="center">
+  <img src="https://img.shields.io/badge/MYSQL-Database-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQL-Practice-6366F1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL Practice"/>
+  <img src="https://img.shields.io/badge/LEARNING-BY%20DOING-9333EA?style=for-the-badge" alt="Learning by doing"/>
+  <img src="https://img.shields.io/badge/OPEN-SOURCE-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Open source"/>
+</p><p align="center">
+  <b>🧠 Learn the logic. Write the query. Understand the data.</b>
+</p>---
+
+🌌 01 · Welcome to SQLVerse
+
+Hey there! 👋 Welcome to my MySQL Practice Repository, a space where I explore relational databases and strengthen my SQL skills through practical examples.
+
+This repository documents my learning journey — from database creation and CRUD operations to joins, aggregate functions, views, and subqueries.
+
+My mission is simple: build strong database fundamentals, write meaningful queries, and become more confident in solving real-world data problems.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MYSQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/DATABASE-Design-7C3AED?style=for-the-badge&logo=databricks&logoColor=white" alt="Database"/>
-  <img src="https://img.shields.io/badge/LEVEL-INTERMEDIATE-EC4899?style=for-the-badge" alt="Level"/>
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-10B981?style=for-the-badge" alt="Status"/>
-</p>
+  <img src="https://img.shields.io/badge/01-LEARN-0EA5E9?style=flat-square" alt="Learn"/>
+  &nbsp;➜&nbsp;
+  <img src="https://img.shields.io/badge/02-PRACTICE-7C3AED?style=flat-square" alt="Practice"/>
+  &nbsp;➜&nbsp;
+  <img src="https://img.shields.io/badge/03-IMPROVE-EC4899?style=flat-square" alt="Improve"/>
+</p>🪐 02 · Explore the SQL Galaxy
 
-<p align="center">
-  <i>A hands-on journey into relational databases, advanced query writing, data manipulation, and SQL problem-solving.</i>
-</p>
-
----
-
-🌌 About SQLVerse
-
-**SQLVerse** is my personal digital laboratory for exploring the world of databases, optimizing query execution, and sharpening my SQL skills through hands-on practice.
-
-From writing fundamental `SELECT` statements to designing complex multi-table joins, subqueries, and views, this repository documents my progress as I build a robust foundation in backend data management.
-
-```sql
-SELECT curiosity, practice, consistency
-FROM learning_journey
-WHERE goal = 'Master SQL' AND status = 'In Progress';
-
-```
-> *💡 Every query is a step closer to turning raw data into meaningful intelligence!*
-> 
-🪐 Explore the SQL Galaxy
 <table>
 <tr>
-<td width="50%" valign="top">🔹 <b>01. Database Foundations</b>
+<td width="50%" valign="top">🗄️ Database Foundations
 
- * Creating databases & schemas
-   
- * Defining tables and altering structures
-   
- * Understanding SQL data types
-   
- * Enforcing constraints and keys
-   </td>
-   <td width="50%" valign="top">🔹 <b>02. Core CRUD Operations</b>
-   
- * Data Insertion (INSERT)
-   
- * Data Retrieval (SELECT)
-   
- * Data Modification (UPDATE)
-   
- * Data Removal (DELETE)
-   </td>
-   </tr>
-   <tr>
-   <td width="50%" valign="top">🔹 <b>03. Filtering & Sorting</b>
-   
- * Precise conditional logic (WHERE)
-   
- * Result sorting (ORDER BY)
-   
- * Data grouping (GROUP BY)
-   
- * Group filtering (HAVING)
-   </td>
-   <td width="50%" valign="top">🔹 <b>04. Data Analysis & Metrics</b>
-   
- * Row counting (COUNT())
-   
- * Numerical summation (SUM())
-   
- * Finding averages (AVG())
-   
- * Boundary values (MIN() & MAX())
-   </td>
-   </tr>
-   <tr>
-   <td width="50%" valign="top">🔹 <b>05. Joining the Data</b>
-   
- * Inner & Outer Joins (INNER, LEFT, RIGHT)
-   
- * Multi-table relationships
-   
- * Foreign key architecture
-   </td>
-   <td width="50%" valign="top">🔹 <b>06. Beyond the Basics</b>
-   
- * Subqueries & Nested queries
-   
- * Virtual tables (VIEWS)
-   
- * Complex analytical challenges
-   </td>
-   </tr>
-   </table>
-💻 Inside the Query Lab
-Let's spin up a database, insert some sample records, and filter students who scored above 80 marks.
-```sql
+- Creating databases
+- Creating and altering tables
+- SQL data types
+- Primary keys and constraints
+
+</td>
+<td width="50%" valign="top">✏️ CRUD Operations
+
+- "INSERT" — Add data
+- "SELECT" — Retrieve data
+- "UPDATE" — Modify data
+- "DELETE" — Remove data
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">🔍 Filtering & Sorting
+
+- "WHERE"
+- "ORDER BY"
+- "GROUP BY"
+- "HAVING"
+
+</td>
+<td width="50%" valign="top">📊 Aggregate Functions
+
+- "COUNT()"
+- "SUM()"
+- "AVG()"
+- "MIN()" and "MAX()"
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">🔗 Joins & Relationships
+
+- "INNER JOIN"
+- "LEFT JOIN"
+- "RIGHT JOIN"
+- Combining related tables
+
+</td>
+<td width="50%" valign="top">🧩 Queries Beyond Basics
+
+- Subqueries
+- Nested queries
+- Views
+- SQL problem-solving
+
+</td>
+</tr>
+</table>💻 03 · Enter the Query Lab
+
+Let's build a small database, insert student records, and retrieve students who scored above 80 marks.
+
+-- Create a database
 CREATE DATABASE SQLVerse;
 USE SQLVerse;
 
+-- Create a table
 CREATE TABLE Students (
     id INT PRIMARY KEY,
     name VARCHAR(50),
     marks INT
 );
 
+-- Insert sample records
 INSERT INTO Students (id, name, marks)
 VALUES
     (1, 'Riya', 85),
     (2, 'Aman', 92),
     (3, 'Neha', 78);
 
+-- Retrieve students scoring above 80
 SELECT name, marks
 FROM Students
 WHERE marks > 80
 ORDER BY marks DESC;
 
-```
-🔮 **Query Execution Results:**
-| Student | Marks |
-|---|---|
-| **Aman** | **92** |
-| **Riya** | **85** |
-<p align="center">
-<b>Query → Process → Result → Insight</b>
-</p>
-⚙️ My Tech Arsenal
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,python&theme=dark" alt="MySQL, Git, GitHub, VS Code and Python"/>
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Database-MySQL-00FFCC?style=flat-square&logo=mysql&logoColor=black" alt="Database"/>
-<img src="https://img.shields.io/badge/Language-SQL-818CF8?style=flat-square" alt="Language"/>
-<img src="https://img.shields.io/badge/Version%20Control-Git-FF6B6B?style=flat-square&logo=git" alt="Git"/>
-</p>
-📡 Learning Progress
-| SQL Mission | Status |
-|---|---|
-| MySQL Basics & Syntax | 🟢 Practicing |
-| Database & Table Creation | 🟢 Practicing |
-| CRUD Operations & Filtering | 🟢 Practicing |
-| SQL Clauses & Aggregations | 🟢 Practicing |
-| Joins & Subqueries | 📚 Learning |
-| Indexes & Query Optimization | 🔒 Upcoming |
-| Database Normalization (1NF - 3NF) | 🔒 Upcoming |
-| Real-World SQL Projects | 🚀 Future Mission |
-*I update this roadmap continuously as I conquer new database concepts.*
-🚀 What's Next in My Journey?
- * 🧩 Solve advanced LeetCode & HackerRank SQL challenges.
- * ⚡ Explore indexes, execution plans, and query performance tuning.
- * 🗄️ Master database normalization and schema design patterns.
- * 📊 Apply relational queries to enterprise-grade datasets.
- * 🏗️ Integrate MySQL backends with full-stack Python applications.
-👩‍💻 Connect With Me
-<p align="center">
-<a href="https://github.com/ritika02052007">
-<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-0D1117?style=for-the-badge&logo=github&logoColor=00FFCC" alt="GitHub profile"/>
-</a>
-</p>
-<p align="center">
-<b>⭐ Enjoying this repository? Give it a star and follow along with my progress!</b>
-</p>
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=30,11,6&height=140&section=footer&animation=fadeIn" width="100%" alt="Animated footer"/>
-</p>
-<p align="center">
-<b>⚡ THINK IN QUERIES. THINK IN DATA. THINK SQL.</b>
-</p>
-```
+🔮 Output Preview
 
-```
+👤 Student| 📈 Marks
+Aman| 92
+Riya| 85
+
+<p align="center">
+  <b>⌨️ SQL Query → ⚙️ Execution → 📊 Results</b>
+</p>What this demonstrates:
+
+- Creating and selecting a database.
+- Defining a table with a primary key.
+- Inserting multiple records.
+- Filtering data with "WHERE".
+- Sorting results with "ORDER BY".
+
+⚙️ 04 · My Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" alt="MySQL, Git, GitHub and VS Code"/>
+</p><p align="center">
+  <img src="https://img.shields.io/badge/DATABASE-MySQL-0EA5E9?style=flat-square&logo=mysql&logoColor=white" alt="Database"/>
+  <img src="https://img.shields.io/badge/LANGUAGE-SQL-8B5CF6?style=flat-square" alt="SQL"/>
+  <img src="https://img.shields.io/badge/TOOLS-Git%20%26%20VS%20Code-06B6D4?style=flat-square" alt="Development tools"/>
+</p>📡 05 · My Learning Roadmap
+
+Mission| Progress
+MySQL Fundamentals| 🟢 Practicing
+Database & Table Creation| 🟢 Practicing
+CRUD Operations| 🟢 Practicing
+SQL Clauses| 🟢 Practicing
+Aggregate Functions| 🟢 Practicing
+Joins & Subqueries| 📚 Learning and practicing
+Indexes & Query Optimization| 🔒 Upcoming
+Database Normalization| 🔒 Upcoming
+Real-World Database Projects| 🚀 Future goal
+
+Progress labels can be updated as I learn and complete each topic.
+
+🚀 06 · What's Next?
+
+My journey continues beyond basic queries!
+
+- 🧩 Solve more SQL practice problems.
+- ⚡ Explore indexes and query optimization.
+- 🗃️ Understand database normalization.
+- 📊 Practice querying real-world datasets.
+- 🏗️ Build applications powered by relational databases.
+
+💜 07 · Let's Connect
+
+<p align="center">
+  <a href="https://github.com/ritika02052007">
+    <img src="https://img.shields.io/badge/EXPLORE%20MY-GITHUB-111827?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Visit my GitHub profile"/>
+  </a>
+</p><p align="center">
+  <i>Every expert was once a beginner. Keep learning, keep building! ✨</i>
+</p><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,40:4C1D95,100:050816&height=160&section=footer&animation=fadeIn" width="100%" alt="SQLVerse footer banner"/>
+</p><p align="center">
+  <b>⚡ THINK IN QUERIES · THINK IN DATA · THINK SQL ⚡</b>
+</p>
