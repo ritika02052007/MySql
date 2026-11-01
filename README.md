@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:4B00E0,100:00C6FF&height=250&section=header&text=SQLVerse&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Explore%20Data.%20Master%20SQL.&descSize=20&descAlignY=60&descColor=E0E7FF" width="100%" alt="SQLVerse animated banner"/>
 </p><p align="center">
+
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=900&color=00C6FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+SQLVerse!;Learning+MySQL+One+Query+at+a+Time;Turning+Data+into+Insights;Building+Strong+Database+Fundamentals" alt="Animated introduction"/>
 </p><p align="center">
   <img src="https://img.shields.io/badge/MYSQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -12,6 +13,7 @@
 </p><p align="center">
   <i>A hands-on journey into databases, query writing, data manipulation, and SQL problem-solving.</i>
 </p>---
+
 
 🌌 About SQLVerse
 
