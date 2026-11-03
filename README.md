@@ -1,5 +1,4 @@
 ⚡ SQLVerse — MySQL Practice Repository
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:4B00E0,100:00C6FF&height=250&section=header&text=SQLVerse&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Explore%20Data.%20Master%20SQL.&descSize=20&descAlignY=60&descColor=E0E7FF" width="100%" alt="SQLVerse animated banner"/>
 </p><p align="center">
